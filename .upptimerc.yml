@@ -25,5 +25,9 @@ status-website:
   introTitle: "Is it down, or is it just me?"
   introMessage: Checked every 5 minutes from outside the house.
   navbar:
-    - title: Open Jellyfin
+    - title: MatthewAHale.com
+      href: https://matthewahale.com
+    - title: Jellyfin
       href: https://jellyfin.matthewahale.com
+    - title: Audiobooks
+      href: https://audiobooks.matthewahale.com
