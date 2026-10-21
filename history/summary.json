@@ -4,19 +4,19 @@
     "url": "https://jellyfin.matthewahale.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.matthewahale.com.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 218,
-    "timeDay": 123,
-    "timeWeek": 226,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "status": "up",
+    "uptime": "95.03%",
+    "uptimeDay": "55.77%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
+    "time": 212,
+    "timeDay": 135,
+    "timeWeek": 216,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-10-21": 1
+      "2026-10-21": 637
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://requests.matthewahale.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/requests.matthewahale.com.ico",
     "slug": "requests",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 360,
-    "timeDay": 272,
-    "timeWeek": 352,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "status": "up",
+    "uptime": "95.03%",
+    "uptimeDay": "55.79%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
+    "time": 356,
+    "timeDay": 291,
+    "timeWeek": 347,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2026-10-21": 1
+      "2026-10-21": 637
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://accounts.matthewahale.com",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.matthewahale.com.ico",
     "slug": "accounts",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 284,
-    "timeDay": 164,
-    "timeWeek": 281,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "status": "up",
+    "uptime": "95.03%",
+    "uptimeDay": "55.80%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
+    "time": 277,
+    "timeDay": 187,
+    "timeWeek": 272,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2026-10-21": 1
+      "2026-10-21": 636
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://audiobooks.matthewahale.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/audiobooks.matthewahale.com.ico",
     "slug": "audiobooks",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 185,
-    "timeDay": 120,
-    "timeWeek": 195,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "status": "up",
+    "uptime": "95.03%",
+    "uptimeDay": "55.82%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
+    "time": 181,
+    "timeDay": 132,
+    "timeWeek": 189,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-10-21": 1
+      "2026-10-21": 636
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://recipes.matthewahale.com",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.matthewahale.com.ico",
     "slug": "recipes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 135,
-    "timeWeek": 217,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "95.03%",
+    "uptimeDay": "55.84%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "95.03%",
+    "time": 224,
+    "timeDay": 173,
+    "timeWeek": 216,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-10-21": 0
+      "2026-10-21": 636
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://matthewahale.com",
     "icon": "https://icons.duckduckgo.com/ip3/matthewahale.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "95.04%",
+    "uptimeDay": "55.87%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "95.04%",
     "time": 235,
-    "timeDay": 138,
-    "timeWeek": 247,
+    "timeDay": 185,
+    "timeWeek": 245,
     "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-10-21": 0
+      "2026-10-21": 635
     }
   }
 ]
