@@ -1,7 +1,7 @@
 url: https://audiobooks.matthewahale.com/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-21T12:11:59.389Z
+status: up
+code: 200
+responseTime: 143
+lastUpdated: 2026-10-21T23:02:10.289Z
 startTime: 2026-10-13T01:35:27.838Z
 generator: Upptime <https://github.com/upptime/upptime>
