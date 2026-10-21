@@ -125,16 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/down.matthewahale.com.ico",
     "slug": "test",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "60.18%",
+    "uptimeDay": "60.18%",
+    "uptimeWeek": "60.18%",
+    "uptimeMonth": "60.18%",
+    "uptimeYear": "60.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   }
 ]
