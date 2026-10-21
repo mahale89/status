@@ -4,81 +4,89 @@
     "url": "https://jellyfin.matthewahale.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.matthewahale.com.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 218,
     "timeDay": 123,
     "timeWeek": 226,
     "timeMonth": 218,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 1
+    }
   },
   {
     "name": "Requests",
     "url": "https://requests.matthewahale.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/requests.matthewahale.com.ico",
     "slug": "requests",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 360,
     "timeDay": 272,
     "timeWeek": 352,
     "timeMonth": 360,
     "timeYear": 360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 1
+    }
   },
   {
     "name": "Accounts",
     "url": "https://accounts.matthewahale.com",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.matthewahale.com.ico",
     "slug": "accounts",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 284,
     "timeDay": 164,
     "timeWeek": 281,
     "timeMonth": 284,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 1
+    }
   },
   {
     "name": "Audiobooks",
     "url": "https://audiobooks.matthewahale.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/audiobooks.matthewahale.com.ico",
     "slug": "audiobooks",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 185,
     "timeDay": 120,
     "timeWeek": 195,
     "timeMonth": 185,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 1
+    }
   },
   {
     "name": "Recipes",
     "url": "https://recipes.matthewahale.com",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.matthewahale.com.ico",
     "slug": "recipes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +95,18 @@
     "timeWeek": 217,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   },
   {
     "name": "Website",
     "url": "https://matthewahale.com",
     "icon": "https://icons.duckduckgo.com/ip3/matthewahale.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 247,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   }
 ]
