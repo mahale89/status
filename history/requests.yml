@@ -1,7 +1,7 @@
 url: https://requests.matthewahale.com/api/v1/status
-status: up
-code: 200
-responseTime: 272
-lastUpdated: 2026-10-21T01:06:47.372Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-10-21T12:11:28.888Z
 startTime: 2026-10-13T01:35:26.569Z
 generator: Upptime <https://github.com/upptime/upptime>
