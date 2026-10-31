@@ -18,8 +18,6 @@ sites:
     url: https://recipes.matthewahale.com
   - name: Website
     url: https://matthewahale.com
-  - name: Test
-    url: https://down.matthewahale.com
 
 status-website:
   cname: status.matthewahale.com
